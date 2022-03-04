@@ -1,4 +1,4 @@
 # Tic-Tac-Toe
 This is a Tic Tac Toe game that was programmed using HTML, CSS, and JS.
 
-This project was started on 3/2/2022.
+I followed this tutorial during the creation of this program: https://github.com/BornaSepic
